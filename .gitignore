@@ -1,0 +1,8 @@
+# system temporary files
+~$*
+*~
+.#*
+
+# matlab autosave file
+matlab/**/*.asv
+matlab/figures/*.png

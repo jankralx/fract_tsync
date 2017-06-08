@@ -1,3 +1,5 @@
+# Fractional Synchronisation
+
 The time fractional synchronisation based on spectra phase difference
 between signals for digital predistortion systems.
 
@@ -18,3 +20,8 @@ o1_delay_influence.m - scritp which generates figures of the
 o2_plot_results.m - script which implements fract_sync_fft and
   sig_delay_fft functions on measured data of the digital
   predistortion system
+
+# Citation
+If used for research, plese cite our paper
+(http://ieeexplore.ieee.org/abstract/document/7937603/)[http://ieeexplore.ieee.org/abstract/document/7937603/]
+or download the (bibtex citation)[citation.bib].

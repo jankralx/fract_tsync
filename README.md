@@ -23,5 +23,5 @@ o2_plot_results.m - script which implements fract_sync_fft and
 
 # Citation
 If used for research, plese cite our paper
-(http://ieeexplore.ieee.org/abstract/document/7937603/)[http://ieeexplore.ieee.org/abstract/document/7937603/]
-or download the (bibtex citation)[citation.bib].
+[http://ieeexplore.ieee.org/abstract/document/7937603/](http://ieeexplore.ieee.org/abstract/document/7937603/)
+or download the [bibtex citation](citation.bib).
